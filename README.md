@@ -20,7 +20,7 @@
 
 ---
 
-## 🛠️ Tech Stack (Purple Edition)
+## 🛠️ Tech Stack 
 
 ### 💻 Languages
 ![Java](https://img.shields.io/badge/Java-6f42c1?style=for-the-badge&logo=java&logoColor=white)
@@ -48,11 +48,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MALIJANHAVIANIL&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MALIJANHAVIANIL&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -77,10 +77,10 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+  <a href="https://www.linkedin.com/in/janhavi-mali-a4085320b/">
     <img src="https://img.shields.io/badge/LinkedIn-6f42c1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:malijanvi54@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-8e44ad?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
